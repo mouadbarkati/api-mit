@@ -1,0 +1,13 @@
+mit:
+    resource: "@MitBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
+#test_mit:
+#    resource: "@TestMitBundle/Controller/"
+#    type:     annotation
+#    prefix:   /
+
+app:
+    resource: '@AppBundle/Controller/'
+    type: annotation
